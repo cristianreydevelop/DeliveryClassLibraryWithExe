@@ -1,0 +1,10 @@
+c:\crey\from me\Projects\DeliveryGlobalSettings\bin\Debug\DeliveryGlobalSettings.dll
+c:\crey\from me\Projects\DeliveryGlobalSettings\bin\Debug\DeliveryGlobalSettings.pdb
+c:\crey\from me\Projects\DeliveryGlobalSettings\obj\Debug\DeliveryGlobalSettings.dll
+c:\crey\from me\Projects\DeliveryGlobalSettings\obj\Debug\DeliveryGlobalSettings.pdb
+c:\crey\from me\Projects\DeliveryGlobalSettings\obj\Debug\DeliveryGlobalSettings.csprojResolveAssemblyReference.cache
+C:\crey\from me\Projects\DeliveryClassLibrary\DeliveryGlobalSettings\bin\Debug\DeliveryGlobalSettings.dll
+C:\crey\from me\Projects\DeliveryClassLibrary\DeliveryGlobalSettings\bin\Debug\DeliveryGlobalSettings.pdb
+C:\crey\from me\Projects\DeliveryClassLibrary\DeliveryGlobalSettings\obj\Debug\DeliveryGlobalSettings.csprojResolveAssemblyReference.cache
+C:\crey\from me\Projects\DeliveryClassLibrary\DeliveryGlobalSettings\obj\Debug\DeliveryGlobalSettings.dll
+C:\crey\from me\Projects\DeliveryClassLibrary\DeliveryGlobalSettings\obj\Debug\DeliveryGlobalSettings.pdb

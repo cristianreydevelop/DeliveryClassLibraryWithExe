@@ -1,0 +1,77 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeliveryControl", "DeliveryControl\DeliveryControl.csproj", "{4F02F67D-730F-4F7A-903D-905CDE43075C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7695D7C1-F3B5-41EA-BC44-BF30CC9CD7A6} = {7695D7C1-F3B5-41EA-BC44-BF30CC9CD7A6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeliveryBiz", "..\DeliveryBiz\DeliveryBiz.csproj", "{7695D7C1-F3B5-41EA-BC44-BF30CC9CD7A6}"
+	ProjectSection(ProjectDependencies) = postProject
+		{30B1B37A-B5AC-49C8-A67C-8FD8E309C42D} = {30B1B37A-B5AC-49C8-A67C-8FD8E309C42D}
+		{81BB08B7-C019-4923-A230-52A49FB52AF3} = {81BB08B7-C019-4923-A230-52A49FB52AF3}
+		{94D231D4-48A9-4E39-A9EA-0ACF6943D71F} = {94D231D4-48A9-4E39-A9EA-0ACF6943D71F}
+		{9D40BCE4-9ACB-4076-9C52-1C91DB0479A8} = {9D40BCE4-9ACB-4076-9C52-1C91DB0479A8}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeliveryData", "..\DeliveryData\DeliveryData.csproj", "{9D40BCE4-9ACB-4076-9C52-1C91DB0479A8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{81BB08B7-C019-4923-A230-52A49FB52AF3} = {81BB08B7-C019-4923-A230-52A49FB52AF3}
+		{94D231D4-48A9-4E39-A9EA-0ACF6943D71F} = {94D231D4-48A9-4E39-A9EA-0ACF6943D71F}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeliveryGlobalSettings", "..\DeliveryGlobalSettings\DeliveryGlobalSettings.csproj", "{94D231D4-48A9-4E39-A9EA-0ACF6943D71F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeliverySend", "..\DeliverySend\DeliverySend.csproj", "{30B1B37A-B5AC-49C8-A67C-8FD8E309C42D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{94D231D4-48A9-4E39-A9EA-0ACF6943D71F} = {94D231D4-48A9-4E39-A9EA-0ACF6943D71F}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExecuteDelivery", "..\ExecuteDelivery\ExecuteDelivery.csproj", "{55543BBB-2FA8-47F4-9422-F9BBECDB4D62}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4F02F67D-730F-4F7A-903D-905CDE43075C} = {4F02F67D-730F-4F7A-903D-905CDE43075C}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeliveryErrors", "..\DeliveryErrors\DeliveryErrors.csproj", "{81BB08B7-C019-4923-A230-52A49FB52AF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F02F67D-730F-4F7A-903D-905CDE43075C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F02F67D-730F-4F7A-903D-905CDE43075C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F02F67D-730F-4F7A-903D-905CDE43075C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F02F67D-730F-4F7A-903D-905CDE43075C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7695D7C1-F3B5-41EA-BC44-BF30CC9CD7A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7695D7C1-F3B5-41EA-BC44-BF30CC9CD7A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7695D7C1-F3B5-41EA-BC44-BF30CC9CD7A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7695D7C1-F3B5-41EA-BC44-BF30CC9CD7A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D40BCE4-9ACB-4076-9C52-1C91DB0479A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D40BCE4-9ACB-4076-9C52-1C91DB0479A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D40BCE4-9ACB-4076-9C52-1C91DB0479A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D40BCE4-9ACB-4076-9C52-1C91DB0479A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94D231D4-48A9-4E39-A9EA-0ACF6943D71F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94D231D4-48A9-4E39-A9EA-0ACF6943D71F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94D231D4-48A9-4E39-A9EA-0ACF6943D71F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94D231D4-48A9-4E39-A9EA-0ACF6943D71F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30B1B37A-B5AC-49C8-A67C-8FD8E309C42D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B1B37A-B5AC-49C8-A67C-8FD8E309C42D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B1B37A-B5AC-49C8-A67C-8FD8E309C42D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B1B37A-B5AC-49C8-A67C-8FD8E309C42D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55543BBB-2FA8-47F4-9422-F9BBECDB4D62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55543BBB-2FA8-47F4-9422-F9BBECDB4D62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55543BBB-2FA8-47F4-9422-F9BBECDB4D62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55543BBB-2FA8-47F4-9422-F9BBECDB4D62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81BB08B7-C019-4923-A230-52A49FB52AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81BB08B7-C019-4923-A230-52A49FB52AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81BB08B7-C019-4923-A230-52A49FB52AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81BB08B7-C019-4923-A230-52A49FB52AF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

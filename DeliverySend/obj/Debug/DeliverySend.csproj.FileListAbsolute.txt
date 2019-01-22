@@ -1,0 +1,14 @@
+c:\crey\from me\Projects\DeliverySend\bin\Debug\DeliverySend.dll
+c:\crey\from me\Projects\DeliverySend\bin\Debug\DeliverySend.pdb
+c:\crey\from me\Projects\DeliverySend\bin\Debug\DeliveryGlobalSettings.dll
+c:\crey\from me\Projects\DeliverySend\bin\Debug\DeliveryGlobalSettings.pdb
+c:\crey\from me\Projects\DeliverySend\obj\Debug\DeliverySend.csprojResolveAssemblyReference.cache
+c:\crey\from me\Projects\DeliverySend\obj\Debug\DeliverySend.dll
+c:\crey\from me\Projects\DeliverySend\obj\Debug\DeliverySend.pdb
+C:\crey\from me\Projects\DeliveryClassLibrary\DeliverySend\bin\Debug\DeliverySend.dll
+C:\crey\from me\Projects\DeliveryClassLibrary\DeliverySend\bin\Debug\DeliverySend.pdb
+C:\crey\from me\Projects\DeliveryClassLibrary\DeliverySend\bin\Debug\DeliveryGlobalSettings.dll
+C:\crey\from me\Projects\DeliveryClassLibrary\DeliverySend\bin\Debug\DeliveryGlobalSettings.pdb
+C:\crey\from me\Projects\DeliveryClassLibrary\DeliverySend\obj\Debug\DeliverySend.csprojResolveAssemblyReference.cache
+C:\crey\from me\Projects\DeliveryClassLibrary\DeliverySend\obj\Debug\DeliverySend.dll
+C:\crey\from me\Projects\DeliveryClassLibrary\DeliverySend\obj\Debug\DeliverySend.pdb

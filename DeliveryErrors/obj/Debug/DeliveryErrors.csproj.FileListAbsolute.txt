@@ -1,0 +1,10 @@
+c:\crey\from me\Projects\DeliveryErrors\bin\Debug\DeliveryErrors.dll
+c:\crey\from me\Projects\DeliveryErrors\bin\Debug\DeliveryErrors.pdb
+c:\crey\from me\Projects\DeliveryErrors\obj\Debug\DeliveryErrors.dll
+c:\crey\from me\Projects\DeliveryErrors\obj\Debug\DeliveryErrors.pdb
+c:\crey\from me\Projects\DeliveryErrors\obj\Debug\DeliveryErrors.csprojResolveAssemblyReference.cache
+C:\crey\from me\Projects\DeliveryClassLibrary\DeliveryErrors\bin\Debug\DeliveryErrors.dll
+C:\crey\from me\Projects\DeliveryClassLibrary\DeliveryErrors\bin\Debug\DeliveryErrors.pdb
+C:\crey\from me\Projects\DeliveryClassLibrary\DeliveryErrors\obj\Debug\DeliveryErrors.csprojResolveAssemblyReference.cache
+C:\crey\from me\Projects\DeliveryClassLibrary\DeliveryErrors\obj\Debug\DeliveryErrors.dll
+C:\crey\from me\Projects\DeliveryClassLibrary\DeliveryErrors\obj\Debug\DeliveryErrors.pdb
